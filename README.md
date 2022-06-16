@@ -1,16 +1,32 @@
 # checklist
 
-Getx 를 활용한 CheckList 
+Getx 와 Hive 를 활용한 CheckList App
 
-## Getting Started
+## 활용 라이브러리
 
-This project is a starting point for a Flutter application.
+- getx
+- geolocator 
+- http 
+- intl 
+- xml 
+- dio  
+- fl_chart 
+- flutter_spinkit 
+- uuid
+- hive 
 
-A few resources to get you started if this is your first Flutter project:
+## 구현 기능
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 코로나 일일 확진자 정보
+- 코로나 확진자 일주일 차트
+- 현재 지역의 날씨 정보
+- 일정 등록
+- 일정 목록
+- 일정 초기화
+- 일정 삭제
+- 일정 배치변경
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 활용 데이터
+
+- 공공데이터 포털 보건복지부 코로나19 감염 현황
+- OpenWeatherMap Api
