@@ -1,6 +1,6 @@
 # checklist
 
-A new Flutter project.
+Getx 를 활용한 CheckList 
 
 ## Getting Started
 
