@@ -30,3 +30,5 @@ Getx 와 Hive 를 활용한 CheckList App
 
 - 공공데이터 포털 보건복지부 코로나19 감염 현황
 - OpenWeatherMap Api
+
+https://user-images.githubusercontent.com/21376061/174026462-5403dd1d-7540-4b70-ba02-c704903ef86c.mp4
