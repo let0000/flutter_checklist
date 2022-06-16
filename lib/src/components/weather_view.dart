@@ -13,7 +13,7 @@ class WeatherView extends GetView<WeatherController> {
       return info.cityName != null
           ? GestureDetector(
               onTap: () {
-                print('날씨 다이얼로그 오픈');
+
               },
               child: Column(
                   children: [
